@@ -5,5 +5,7 @@ Espero que te guste esta pequeña trivia con preguntas al azar para que responda
 
 Recien estoy comenzando a programar en lenguaje Python y en el mundo de la programación, ojala te pueda servir mi codigo fuente para que practiques y puedas estudiarlo.
 
+LINK DE MI TRIVIA: https://replit.com/@Victor-EE4/PREGUNTAS-TRIVIA-PROCRASTINACION
+
 Saludos.
 
